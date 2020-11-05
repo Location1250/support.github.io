@@ -1,2 +1,2 @@
-# support.github.io
+# Read me
 This is just a test of GitHub Pages
